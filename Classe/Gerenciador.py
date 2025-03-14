@@ -29,7 +29,7 @@ class Gerenciador:
         print(f"Erro: Veículo com ID {id} não encontrado.")
         
     def atualizar_quilometragem(self, id, nova_km):
-        if id in self.veiculos:
+        if id in self .veiculos:
             self.veiculos[id].atualizar_qulometragem(nova_km)
         else:
             print(f"Erro: Veículo com ID {id} não encontrado.")
