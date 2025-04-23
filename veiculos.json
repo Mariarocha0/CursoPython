@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "tipo": "Moto",
+        "marca": "skss",
+        "modelo": "akak",
+        "ano": "22",
+        "placa": "20202aAA",
+        "cilindradas": "120"
+    }
+]
